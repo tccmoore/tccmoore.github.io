@@ -16,7 +16,7 @@ timezone:
 
 title: Trenton Chest-Moore # the main title
 
-tagline: [CompTIA A+, Sec+] # it will display as the subtitle
+tagline: \[CompTIA A+, Sec+\] # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Thank you for visiting my portfolio website.
