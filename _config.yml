@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Trenton Chest-Moore # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: [CompTIA A+, Sec+] # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Thank you for visiting my portfolio website.
@@ -98,7 +98,7 @@ theme_mode: dark
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media.licdn.com/dms/image/v2/D4E03AQEPLh_s3o_OBQ/profile-displayphoto-shrink_400_400/B4EZTgg5bJHcAk-/0/1738933517349?e=1758153600&v=beta&t=ZjtDXPDwpDcmb6BGr6P8kj1-QaKCXk-B7lV0kO0mlSM
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
